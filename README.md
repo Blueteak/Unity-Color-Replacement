@@ -13,6 +13,5 @@ Original Image:<br />
 ## Usage
 
 Use by adding `ColorRampPost.cs` to your camera. You can then set a Color Gradient
-in the inspector, or select an Image to use as the ramp.<br /><br />
-
-A selected image will override the current Color Gradient.
+in the inspector, or select an Image to use as the replacement.<br /><br />
+Selecting an image will override the current Color Gradient.
